@@ -1,4 +1,4 @@
-# Analysis-and-Comparison-ML-models-for-Fair-Price-Prediction-of-Options-
+# Analysis-and-Comparison-ML-models-for-Fair-Price-Prediction-of-Options
 This project explores the the usability of MLP(Multi Layer Perceptron) and other ML models in finding the "fair" price of a options price. The options in this project are synthetically created and replicate the NIFTY option chain (specifically European call options).
 So, here we have used 6 variables for finding price of any option. They are: 
 1. S: Spot price
